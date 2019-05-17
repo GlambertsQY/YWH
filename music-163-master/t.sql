@@ -22,8 +22,10 @@ create table artists(
     ARTIST_NAME varchar(100)
 );
 use test;
-select * from albums;
+delete from artists;
 delete from artists where ARTIST_ID like "6%";
 drop table comments;
 drop table musics;
 drop table albums;
+
+select * from artists;

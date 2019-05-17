@@ -23,7 +23,10 @@ headers = {
 
 def save_artist(group_id, initial):
     params = {'id': group_id, 'initial': initial}
-    r = requests.get('http://music.163.com/discover/artist/cat', params=params)
+    r = requests.get('http://music.163.com/discover/artist/cat')
+
+    with open('saved.html', mode='w', encoding='utf-8')as file:
+        file.write(r.text)
 
     # 网页解析
     soup = BeautifulSoup(r.content.decode(), 'html.parser')
@@ -40,15 +43,15 @@ def save_artist(group_id, initial):
         except Exception as e:
             # 打印错误日志
             print(e)
+    # for artist in artists:
+    #     artist_id = artist['href'].replace('/artist?id=', '').strip()
+    #     artist_name = artist['title'].replace('的音乐', '')
+    #     try:
+    #         sql.insert_artist(artist_id, artist_name)
+    #     except Exception as e:
+    #         # 打印错误日志
+    #         print(e)
 
-    for artist in artists:
-        artist_id = artist['href'].replace('/artist?id=', '').strip()
-        artist_name = artist['title'].replace('的音乐', '')
-        try:
-            sql.insert_artist(artist_id, artist_name)
-        except Exception as e:
-            # 打印错误日志
-            print(e)
 
 if __name__ == '__main__':
     gg = 4003
