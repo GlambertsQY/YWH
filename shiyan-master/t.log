@@ -1,0 +1,3 @@
+INFO:root:MultiThreads with join takes: 1.5520108000000001
+INFO:root:MultiThreads without join takes: 0.0026985999999999954
+INFO:root:Normal takes: 1.5291016999999998

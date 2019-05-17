@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <title>上海工程技术大学大学教学管理信息系统</title>
+  <link href="/eams/static/css/default.css" rel="stylesheet" type="text/css">
+ </head>
+ <script language="JavaScript" type="text/JavaScript" src="/eams/static/scripts/common/Common.js"></script>
+ <script language="JavaScript" type="text/JavaScript" src="/eams/static/scripts/common/ToolBar.js"></script>
+ <link href="css/toolBar.css" rel="stylesheet" type="text/css">
+<script  type="text/javascript"  src="/eams/static/scripts/jquery-1.8.1.js"></script>
+<link href="/eams/static/themes/default/login_cycle.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/JavaScript" src="/eams/static/scripts/common/OnReturn.js"></script>
+<script type="text/javascript">
+</script>
+<div id="login_box" >
+	<div class="pic_box">
+	<div id="s4" class="pics">
+		<div><img src="/eams/static/themes/default/images/login/P001.jpg"/><br><dt class="p1"><a href="#"><h3>...</h3></a></dt></div>
+	</div>
+	</div>
+	<div class="login_box">
+	<form name="loginForm"  method="post" action="login.action" onsubmit="return false;">
+	<table>
+	<tr><td colspan="1"></td><td colspan="3"><font color="red" size=2>	<ul class="errorMessage">
+            <li><span>账户不存在</span></li>	</ul>
+</font></td></tr>
+	<tr><td height="30" ><font size=2 >用户名：</font></td><td colspan="2"><input name="loginForm.name" id="username" tabindex="1" title="请输入用户名" type="text" value="" style="width:100px;"/></td></tr>
+	<tr><td><font size=2>密&nbsp;&nbsp;&nbsp;码：</font></td><td colspan="2"><input id="password" name="loginForm.password"  tabindex="2" type="password" style="width:100px"/>
+								<input name="encodedPassword" type="hidden" value=""/>
+	</td></tr>
+
+	<tr><td><font size=2>验证码：</font></td><td><input id="captcha" name="loginForm.captcha"  tabindex="3" type="text" style="width:45px;height:16px"/></td>
+		<td><img src="captcha/image.action"   alt="验证码" width="70" height="22" style="cursor: pointer;vertical-align:top;" onclick="refreshCaptcha(this)"/></td>
+	</tr>
+
+	<tr><td><!--<u><a href="javascript:findPassword()"><font color="blue">找回密码</a></u>--></td><td colspan="2" height="30" valign="middle" >
+	<input type="submit" name="submitButton"  class="ip1"   value="登 录" onclick="submitLogin()"></button>&nbsp;<input type="reset" class="ip1" value="重 置"></td></tr>
+	</table>
+	</form>
+	</div>
+
+	<div class="BlankLine1"></div>
+	
+	<div class="div_1"></div>
+	
+	<div class="BlankLine5">
+	</div>
+	
+	<div align="center">上海树维信息科技有限公司  .ALL Rights Reserved</div>
+
+</div>
+<script type="text/javascript">
+  var ret = new OnReturn(document.loginForm);
+  ret.add("loginForm.name");
+  ret.add("loginForm.password");
+  ret.add("loginForm.captcha");
+  ret.add("submitButton");
+  var form  = document.loginForm;
+  
+  function submitLogin(){
+     if(form['loginForm.name'].value==""){
+        alert("用户名称不能为空");return false;
+     }
+     if(form['loginForm.password'].value==""){
+        alert("密码不能为空");return false;
+     }
+     form.submit();
+     return true;
+  }
+  
+  function refreshCaptcha(object){
+  	var timenow = new Date().getTime();  
+     //每次请求需要一个不同的参数，否则可能会返回同样的验证码  
+     //这和浏览器的缓存机制有关系，也可以把页面设置为不缓存，这样就不用这个参数了。  
+     object.src="captcha/image.action?d="+timenow;  
+  }
+  
+  var username=getCookie("username");
+  if(null!=username){
+    if(null!=username){ form['loginForm.name'].value=username;}
+  }
+  
+  function findPassword(){
+	form.action="findPassword.action?method=resettingPassword";
+	form.submit();
+  }
+  
+</script>
+</HTML>

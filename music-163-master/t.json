@@ -1,0 +1,305 @@
+{
+  'error': 0,
+  'data': [
+    {
+      'room_id': 168000,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/168000_1140.png/dy1',
+      'room_name': '小猪:国服第一小丑,每日200杀！',
+      'owner_uid': '6340121',
+      'online': 363337,
+      'hn': 363337,
+      'nickname': '小猪是超级大帅Bi',
+      'url': 'http://www.douyu.com/168000'
+    },
+    {
+      'room_id': 288016,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/288016_1140.png/dy1',
+      'room_name': 'MSI小组赛第三日重播',
+      'owner_uid': '19344409',
+      'online': 3428976,
+      'hn': 3428976,
+      'nickname': '英雄联盟赛事',
+      'url': 'http://www.douyu.com/288016'
+    },
+    {
+      'room_id': 252140,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/252140_1140.png/dy1',
+      'room_name': '金咕咕 我可以上1000分吗？',
+      'owner_uid': '16241112',
+      'online': 1240192,
+      'hn': 1240192,
+      'nickname': '金咕咕金咕咕doinb',
+      'url': 'http://www.douyu.com/252140'
+    },
+    {
+      'room_id': 1126960,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/1126960_1141.png/dy1',
+      'room_name': '12点30分抽万元现金大奖',
+      'owner_uid': '1445245',
+      'online': 846691,
+      'hn': 846691,
+      'nickname': '余小C真的很强',
+      'url': 'http://www.douyu.com/1126960'
+    },
+    {
+      'room_id': 475252,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/475252_1141.png/dy1',
+      'room_name': '12点抽1W',
+      'owner_uid': '25332273',
+      'online': 829355,
+      'hn': 829355,
+      'nickname': '孙悟空丨兰林汉',
+      'url': 'http://www.douyu.com/475252'
+    },
+    {
+      'room_id': 1269983,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/1269983_1141.png/dy1',
+      'room_name': '声音和形象不匹配的主播哦~',
+      'owner_uid': '77169103',
+      'online': 657665,
+      'hn': 657665,
+      'nickname': '女西瓜西西嘟球球',
+      'url': 'http://www.douyu.com/1269983'
+    },
+    {
+      'room_id': 312212,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/312212_1140.png/dy1',
+      'room_name': '第一男刀：三级不单杀请举报！',
+      'owner_uid': '15299329',
+      'online': 566977,
+      'hn': 566977,
+      'nickname': '智勋勋勋勋',
+      'url': 'http://www.douyu.com/312212'
+    },
+    {
+      'room_id': 3567314,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/3567314_1141.png/dy1',
+      'room_name': '调整心态好好上分',
+      'owner_uid': '14744449',
+      'online': 530855,
+      'hn': 530855,
+      'nickname': '王纪超666',
+      'url': 'http://www.douyu.com/3567314'
+    },
+    {
+      'room_id': 249813,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/249813_1140.png/dy1',
+      'room_name': '国服第一全能上单~分奴模式',
+      'owner_uid': '11399647',
+      'online': 308165,
+      'hn': 308165,
+      'nickname': '爷大干',
+      'url': 'http://www.douyu.com/249813'
+    },
+    {
+      'room_id': 1476712,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/1476712_1141.png/dy1',
+      'room_name': '热身一把 韩服大师晋级赛走起',
+      'owner_uid': '92470968',
+      'online': 277682,
+      'hn': 277682,
+      'nickname': '中年人拳师七号',
+      'url': 'http://www.douyu.com/1476712'
+    },
+    {
+      'room_id': 5420063,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/5420063_1141.png/dy1',
+      'room_name': '国服最强手柄玩家',
+      'owner_uid': '54147571',
+      'online': 224965,
+      'hn': 224965,
+      'nickname': 'LOL手柄玩家',
+      'url': 'http://www.douyu.com/5420063'
+    },
+    {
+      'room_id': 6560603,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/6560603_1127.png/dy1',
+      'room_name': '今天早上10点开播！！',
+      'owner_uid': '228972993',
+      'online': 221924,
+      'hn': 221924,
+      'nickname': '阿涛皎月Carry',
+      'url': 'http://www.douyu.com/6560603'
+    },
+    {
+      'room_id': 217785,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/217785_1140.png/dy1',
+      'room_name': '杀神风盲僧  D1钻石排位！',
+      'owner_uid': '1206872',
+      'online': 207117,
+      'hn': 207117,
+      'nickname': 'Night丶杀神风',
+      'url': 'http://www.douyu.com/217785'
+    },
+    {
+      'room_id': 2561707,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/2561707_1141.png/dy1',
+      'room_name': '9年的青春：版本第一打野英雄',
+      'owner_uid': '15447873',
+      'online': 179904,
+      'hn': 179904,
+      'nickname': '网友张顺飞',
+      'url': 'http://www.douyu.com/2561707'
+    },
+    {
+      'room_id': 718133,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/718133_1141.png/dy1',
+      'room_name': '峡谷小号400点了，今天能上王者？',
+      'owner_uid': '53851962',
+      'online': 156018,
+      'hn': 156018,
+      'nickname': '十月船长丶',
+      'url': 'http://www.douyu.com/718133'
+    },
+    {
+      'room_id': 537366,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/537366_1141.png/dy1',
+      'room_name': '空妹快乐型上单教学，有手就能学！',
+      'owner_uid': '36260115',
+      'online': 144446,
+      'hn': 144446,
+      'nickname': '杀神丶晴空',
+      'url': 'http://www.douyu.com/537366'
+    },
+    {
+      'room_id': 226037,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/226037_1140.png/dy1',
+      'room_name': '最强野王：野区在线教学',
+      'owner_uid': '13026609',
+      'online': 142595,
+      'hn': 142595,
+      'nickname': 'MQ丶蜘蛛馍',
+      'url': 'http://www.douyu.com/226037'
+    },
+    {
+      'room_id': 4496475,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/4496475_1141.png/dy1',
+      'room_name': '人在红安～',
+      'owner_uid': '41454023',
+      'online': 138733,
+      'hn': 138733,
+      'nickname': 'Moe无千语吖',
+      'url': 'http://www.douyu.com/4496475'
+    },
+    {
+      'room_id': 688631,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/688631_1141.png/dy1',
+      'room_name': '斗鱼女ning王，水友学习的榜样！！',
+      'owner_uid': '30241731',
+      'online': 135663,
+      'hn': 135663,
+      'nickname': '真皮丶猫猫',
+      'url': 'http://www.douyu.com/688631'
+    },
+    {
+      'room_id': 633980,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/633980_1141.png/dy1',
+      'room_name': '第一皎月，一个很硬的中单!',
+      'owner_uid': '47490147',
+      'online': 134491,
+      'hn': 134491,
+      'nickname': '狗康Bfate丶',
+      'url': 'http://www.douyu.com/633980'
+    },
+    {
+      'room_id': 653999,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/653999_1141.png/dy1',
+      'room_name': '第一VN：今天小号必上大师！',
+      'owner_uid': '49859805',
+      'online': 123671,
+      'hn': 123671,
+      'nickname': '暗夜猎手光头强',
+      'url': 'http://www.douyu.com/653999'
+    },
+    {
+      'room_id': 338281,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/338281_1140.png/dy1',
+      'room_name': '第一炼金：斗鱼前三上单！',
+      'owner_uid': '24048809',
+      'online': 112409,
+      'hn': 112409,
+      'nickname': '疯狗炼金',
+      'url': 'http://www.douyu.com/338281'
+    },
+    {
+      'room_id': 6901557,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/6901557_1142.png/dy1',
+      'room_name': '征服者炼金是真的无情折磨',
+      'owner_uid': '146365399',
+      'online': 92826,
+      'hn': 92826,
+      'nickname': '辛德浪炼金',
+      'url': 'http://www.douyu.com/6901557'
+    },
+    {
+      'room_id': 252171,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/252171_1140.png/dy1',
+      'room_name': 'IG牛皮亚索最强教学付某人',
+      'owner_uid': '16176849',
+      'online': 77898,
+      'hn': 77898,
+      'nickname': '付小翁大富翁',
+      'url': 'http://www.douyu.com/252171'
+    },
+    {
+      'room_id': 298041,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/298041_1140.png/dy1',
+      'room_name': '认真游戏 努力凯瑞 保持心态',
+      'owner_uid': '16758764',
+      'online': 75596,
+      'hn': 75596,
+      'nickname': '温州丶黄小明',
+      'url': 'http://www.douyu.com/298041'
+    },
+    {
+      'room_id': 6221433,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/6221433_1142.png/dy1',
+      'room_name': '第一老鼠，新套路鼠宝巅峰王者',
+      'owner_uid': '229775661',
+      'online': 73922,
+      'hn': 73922,
+      'nickname': '瓜皮乐OvO',
+      'url': 'http://www.douyu.com/6221433'
+    },
+    {
+      'room_id': 526408,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/526408_1141.png/dy1',
+      'room_name': '这韩服的分就上不去了呗?',
+      'owner_uid': '34533504',
+      'online': 73185,
+      'hn': 73185,
+      'nickname': '良人与猫zzz',
+      'url': 'http://www.douyu.com/526408'
+    },
+    {
+      'room_id': 6552620,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/6552620_1142.png/dy1',
+      'room_name': '最强德莱文峡谷之巅王者局乱杀',
+      'owner_uid': '273918036',
+      'online': 69182,
+      'hn': 69182,
+      'nickname': '毛三刀丶',
+      'url': 'http://www.douyu.com/6552620'
+    },
+    {
+      'room_id': 6261433,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/6261433_1142.png/dy1',
+      'room_name': '萧兮：韩服王者打野，电一王者局',
+      'owner_uid': '80072647',
+      'online': 67896,
+      'hn': 67896,
+      'nickname': '龙大根zz',
+      'url': 'http://www.douyu.com/6261433'
+    },
+    {
+      'room_id': 1237105,
+      'room_src': 'https://rpic.douyucdn.cn/asrpic/190513/1237105_1141.png/dy1',
+      'room_name': '空大的劫 国服第一',
+      'owner_uid': '17485006',
+      'online': 66012,
+      'hn': 66012,
+      'nickname': '空大的劫zz',
+      'url': 'http://www.douyu.com/1237105'
+    }
+  ]
+}
