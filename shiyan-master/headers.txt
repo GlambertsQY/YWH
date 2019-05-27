@@ -1,0 +1,10 @@
+Host: study.zhihuishu.com
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://online.zhihuishu.com/onlineSchool/student/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,zh-TW;q=0.8,en;q=0.7
+Cookie: assess_criteria_toggle_10603=on; Hm_lvt_0a1b7151d8c580761c3aef32a3d501c6=1558339123,1558339134; o_session_id=37F4F3EEE43F15BADD227A73AF66ABAA; Z_LOCALE=1; acw_tc=76b20ff915583392893586064e53d4b3bc599427da1627f40e92d06690dc9e; route=44eb826555c101c3072641d0d2b6c21c; c_session_id=5E01C1371109645835DDDF8AE4788721; isLogin=myschool; cookieServer=1; warningTip=1; zsh_learning_rid_10603_userId_196464993_videoId_142413=2_307.5_00%3A04%3A53; ZHSID=BF836EDC46CD8FF2CFCDAE0CAA644B18; privateCloudSchoolInfo_196464993=",1,#0f0c1d,http://image.zhihuishu.com/testzhs/myuni/home/201607/5c40c1f661034427a0fb454d73d65d29.png,http://image.zhihuishu.com/zhs/myuni/home/201712/b617b9b6cbe24fd5939bfd724f18f264.png,19,http://school.zhihuishu.com/sues,"; zsh_learning_rid_10603_userId_196464993_videoId_158225=2_277.5_00%3A04%3A24; CASLOGC=%7B%22myuniRole%22%3A0%2C%22username%22%3A%22e376bc3b24c7466b844de8bd54296371%22%2C%22mycuRole%22%3A0%2C%22userId%22%3A196464993%2C%22myinstRole%22%3A0%2C%22realName%22%3A%22%E6%9D%A8%E6%96%87%E8%B1%AA%22%2C%22uuid%22%3A%22VBRGBM14%22%2C%22headPic%22%3A%22http%3A%2F%2Fimage.zhihuishu.com%2Fzhs%2Fablecommons%2Fdemo%2F201804%2Fdacc8bdfb6c7492ca32dfe37441842f9_s3.jpg%22%7D; CASTGC=""; JSESSIONID=0043D12C76F7DAE942D1462EDB8BA731; Hm_lpvt_0a1b7151d8c580761c3aef32a3d501c6=1558508546; SERVERID=4516a494fea80bcfc392e5b45dea0690|1558508549|1558508543

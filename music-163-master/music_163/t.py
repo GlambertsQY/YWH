@@ -26,7 +26,7 @@ if __name__ == '__main__':
     }
     users=[]
 
-    for i in range(21116101, 21116151):
+    for i in range(21116301, 21116351):
         codeurl = 'http://jxxt.sues.edu.cn/eams/captcha/image.action'
         valcode = requests.get(codeurl)
         with open('image.gif', 'wb') as file:
